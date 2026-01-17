@@ -14,7 +14,7 @@ extra_model_paths.yaml
 venv/
 .venv/
 /web/extensions/*
-!/web/extensions/logging.js.example
+!/web/extensions/logging.js.examplegit remote remove origin
 !/web/extensions/core/
 /tests-ui/data/object_info.json
 /user/
